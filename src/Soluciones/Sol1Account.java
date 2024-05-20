@@ -1,6 +1,8 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * Este es un caso claro en el que la técnica de refactorización debe ser la de encapsular
+ * atributos. Encontramos un código con dos atributos con acceso público. Lo que debemos
+ * hacer es cambiar el acceso a privado, y crear métodos get y set para poder acceder a los
+ * mismos
  */
 package Soluciones;public class Sol1Account {
 
