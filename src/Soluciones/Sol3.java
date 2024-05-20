@@ -1,6 +1,8 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * Para este último caso, vamos a aplicar el método de la extracción de números mágicos.
+ * Consistiría en sustituir la longitud del arreglo nums por una constante. Luego,
+ * simplemente podemos utilizar el atributo length del arreglo se puede utilizar en todos los
+ * bucles for donde se usa el número 10.
  */
 package Soluciones;
 
