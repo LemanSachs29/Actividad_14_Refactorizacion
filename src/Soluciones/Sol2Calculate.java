@@ -1,6 +1,8 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * En este caso el método de refactorización elegido ha sido eliminar la variable temp que
+ * se usa de manera repetida y sustituirla por variables representativas de cada operación.
+ * Puede parecer una buena idea para ahorrar memoria, pero el uso de “variables comodín”
+ * dificulta la legibilidad del código y su mantenimiento.
  */
 package Soluciones;
 
